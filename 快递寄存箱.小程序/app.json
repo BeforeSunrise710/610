@@ -1,0 +1,26 @@
+{
+  "pages":[
+    "pages/start/start",
+    "pages/jiankong/jiankong",
+    "pages/xingxi/xingxi"
+    ],
+    "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "white",
+      "navigationBarTitleText": "快递寄存系统",
+      "navigationBarTextStyle": "black",
+      "enablePullDownRefresh": true
+    },
+    "tabBar":
+    {
+       "list":[  {"text":"开始页面",
+        "pagePath":"pages/start/start"
+          },
+        {
+        "text": "快递查询",
+         "pagePath": "pages/jiankong/jiankong"
+         }
+  
+       ]
+    }
+}

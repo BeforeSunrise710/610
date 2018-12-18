@@ -1,0 +1,11 @@
+<view class="container">
+<view><text>{{motto}}</text></view>
+
+ <view class="btns">
+ <button bindtap="send1">开箱</button></view>
+   <button bindtap="getDataFromOneNet">
+看看我的小快递</button>
+
+       </view>
+
+                    

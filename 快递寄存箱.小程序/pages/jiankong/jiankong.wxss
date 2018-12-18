@@ -1,0 +1,12 @@
+.btn1{
+  width: 100%;
+  top: 50%
+}
+.btns {
+  height:30vh;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10%
+}
